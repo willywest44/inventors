@@ -489,8 +489,12 @@
     pointer-events: all;
   }
   
-  
-  
+  .search-btn{
+    background-color: black;
+    color: black;
+    box-shadow: inset;
+    border-radius: 23PX;
+  }
   
   
   /*-----------------------------------*\
